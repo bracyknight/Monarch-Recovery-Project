@@ -1,0 +1,14 @@
+--------------------------------------------------------
+Date created: 2017-09-07 14:14:28.035000
+--------------------------------------------------------
+
+Number of counties selected: 3108
+--------------------------------------------------------
+
+Input county shapefile: national_mw_seamless_summaries_120616_acres
+--------------------------------------------------------
+
+Developing new county shapefile: C:\Users\kknight\Documents\monarch\b301.shp
+--------------------------------------------------------
+
+Milkweed density designated for field (cl001): 0.05 stems/acre

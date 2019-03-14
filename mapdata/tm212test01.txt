@@ -1,0 +1,196 @@
+--------------------------------------------------------
+Date created: 2017-09-26 10:16:57.734000
+--------------------------------------------------------
+
+Number of counties selected: 3108
+--------------------------------------------------------
+
+Input county shapefile: national_mw_seamless_summaries_120616_acres
+--------------------------------------------------------
+
+Developing new county shapefile: C:\Users\kknight\Documents\monarch\tm212test01.shp
+--------------------------------------------------------
+
+Milkweed density designated for field (cl001): 0.06 stems/acre
+Added field: (cl001_de)
+Added field: (cl001_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl002): 4.05 stems/acre
+Added field: (cl002_de)
+Added field: (cl002_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl003): 5.56 stems/acre
+Added field: (cl003_de)
+Added field: (cl003_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl004): 7.74 stems/acre
+Added field: (cl004_de)
+Added field: (cl004_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl005): 9.93 stems/acre
+Added field: (cl005_de)
+Added field: (cl005_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl006): 3.09 stems/acre
+Added field: (cl006_de)
+Added field: (cl006_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl007): 5.56 stems/acre
+Added field: (cl007_de)
+Added field: (cl007_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl008): 7.74 stems/acre
+Added field: (cl008_de)
+Added field: (cl008_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl009): 9.93 stems/acre
+Added field: (cl009_de)
+Added field: (cl009_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl014): 0.06 stems/acre
+Added field: (cl014_de)
+Added field: (cl014_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl015): 4.05 stems/acre
+Added field: (cl015_de)
+Added field: (cl015_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl021): 16.31 stems/acre
+Added field: (cl021_de)
+Added field: (cl021_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl022): 6.18 stems/acre
+Added field: (cl022_de)
+Added field: (cl022_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl023): 3.09 stems/acre
+Added field: (cl023_de)
+Added field: (cl023_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl024): 0.4 stems/acre
+Added field: (cl024_de)
+Added field: (cl024_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl025): 3.09 stems/acre
+Added field: (cl025_de)
+Added field: (cl025_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl026): 3.09 stems/acre
+Added field: (cl026_de)
+Added field: (cl026_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl052): 3.09 stems/acre
+Added field: (cl052_de)
+Added field: (cl052_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl076): 3.09 stems/acre
+Added field: (cl076_de)
+Added field: (cl076_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl077): 126.55 stems/acre
+Added field: (cl077_de)
+Added field: (cl077_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl078): 3.09 stems/acre
+Added field: (cl078_de)
+Added field: (cl078_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl079): 126.55 stems/acre
+Added field: (cl079_de)
+Added field: (cl079_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl098): 153.5 stems/acre
+Added field: (cl098_de)
+Added field: (cl098_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl099): 65.46 stems/acre
+Added field: (cl099_de)
+Added field: (cl099_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl100): 32.63 stems/acre
+Added field: (cl100_de)
+Added field: (cl100_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl110): 100.2 stems/acre
+Added field: (cl110_de)
+Added field: (cl110_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl120): 78.59 stems/acre
+Added field: (cl120_de)
+Added field: (cl120_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl140): 78.59 stems/acre
+Added field: (cl140_de)
+Added field: (cl140_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl174): 3.09 stems/acre
+Added field: (cl174_de)
+Added field: (cl174_ca)
+--------------------------------------------------------
+
+Milkweed density designated for field (cl200): 10.44 stems/acre
+Added field: (cl200_de)
+Added field: (cl200_ca)
+--------------------------------------------------------
+
+Appended total milkweed stems for each county (tot_stem) to new shapefile (tm212test01.shp).
+Expanded North Central Monarch Region excluded from the analysis.
+Northeast Monarch Region excluded from the analysis.
+South Monarch Region excluded from the analysis.
+Western Monarch Region excluded from the analysis.
+Mexico Monarch Region excluded from the analysis.
+Florida Monarch Region excluded from the analysis.
+
+Summary statistics for field: (tot_stem)
+
+[MEAN_tot_s]: 566,869.82
+[MIN_tot_st]: 0.0
+[MAX_tot_st]: 24,277,851.27
+[STD_tot_st]: 1,616,371.63
+[RANGE_tot_]: 24,277,851.27
+[SUM_tot_st]: 1,761,831,415.59
+
+--------------------------------------------------------
+
+Appended final milkweed density (stems per acre) for each county (ave_stem) to new shapefile (tm212test01.shp).
+
+Summary statistics for field: (ave_stem)
+
+[MEAN_ave_s]: 1.36
+[MIN_ave_st]: 0.0
+[MAX_ave_st]: 43.92
+[STD_ave_st]: 3.35
+[RANGE_ave_]: 43.92
+
+--------------------------------------------------------
+
+
+Completed successfully in 0:01:50.368000
